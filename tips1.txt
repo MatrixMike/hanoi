@@ -1,0 +1,9 @@
+Tue 22 May 2018 08:56:30 AEST 
+So after installing  { sudo make install } and executing in a directory with a main.c 
+I find makefile.am but it did not contain any targets so when make is executed hardly anything happens.
+This looks as if it could be useful for me as I have lots of test main scraps that could be collected and made to be useful.
+What do you want users to do after autogenam ?
+
+e.g. I did : autogenam hanoi hanoi.c
+
+
