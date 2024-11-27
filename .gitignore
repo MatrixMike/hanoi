@@ -1,0 +1,4 @@
+*.o
+hanoiG
+hanoiT
+build/
