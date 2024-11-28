@@ -3,3 +3,4 @@ hanoiG
 hanoiT
 build/
 CMakeCache.txt
+CMakeFiles/
